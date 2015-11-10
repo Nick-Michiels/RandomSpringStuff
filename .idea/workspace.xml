@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22fbeb04-dde9-4c3e-9d69-b90e18946c1c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestErrything.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="RandomStuffTest01.iws" />
@@ -757,7 +756,7 @@
       <workItem from="1446811615274" duration="49000" />
       <workItem from="1446814853475" duration="1695000" />
       <workItem from="1447156705156" duration="1235000" />
-      <workItem from="1447161637178" duration="1918000" />
+      <workItem from="1447161637178" duration="2112000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1447158490378</created>
@@ -789,7 +788,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447162894161</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add stupid test">
+      <created>1447163866152</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1447163866152</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -804,7 +809,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18278000" />
+    <option name="totallyTimeSpent" value="18472000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
