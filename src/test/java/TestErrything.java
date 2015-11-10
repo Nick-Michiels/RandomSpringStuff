@@ -13,8 +13,8 @@ public class TestErrything {
        assertThat("This should be true", true, is(true));
     }
 
-    @Test
-    public void testWrongStuff() {
-        assertThat("This is so not true", false, is(true));
-    }
+//    @Test
+//    public void testWrongStuff() {
+//        assertThat("This is so not true", false, is(true));
+//    }
 }

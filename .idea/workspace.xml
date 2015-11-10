@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="22fbeb04-dde9-4c3e-9d69-b90e18946c1c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestErrything.java" afterPath="$PROJECT_DIR$/src/test/java/TestErrything.java" />
     </list>
     <ignored path="RandomStuffTest01.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,12 +42,10 @@
       <file leaf-file-name="TestErrything.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestErrything.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44334975">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4187192">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -756,7 +755,7 @@
       <workItem from="1446811615274" duration="49000" />
       <workItem from="1446814853475" duration="1695000" />
       <workItem from="1447156705156" duration="1235000" />
-      <workItem from="1447161637178" duration="2112000" />
+      <workItem from="1447161637178" duration="2614000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1447158490378</created>
@@ -794,7 +793,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447163866152</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Nothing really">
+      <created>1447164075768</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1447164075768</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -809,7 +814,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18472000" />
+    <option name="totallyTimeSpent" value="18974000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -866,7 +871,8 @@
     <MESSAGE value="Fake commit" />
     <MESSAGE value="Delete fake commit" />
     <MESSAGE value="Add stupid test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add stupid test" />
+    <MESSAGE value="Nothing really" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nothing really" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1318,12 +1324,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestErrything.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44334975">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4187192">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
           </folding>
         </state>
       </provider>
